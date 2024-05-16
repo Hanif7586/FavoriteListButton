@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.favorite.favouritebutton.app-mergeDebugResources-32:/values-v27/values-v27.xml",
+            "map": [
+                {
+                    "source": "D:\\Add-to-Favorite-Room-main\\app\\src\\main\\res\\values-v27\\themes.xml",
+                    "from": {
+                        "startLines": "8,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "298,56",
+                        "endLines": "8,6",
+                        "endColumns": "77,12",
+                        "endOffsets": "371,292"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,132",
+                        "endLines": "2,6",
+                        "endColumns": "76,12",
+                        "endOffsets": "127,368"
+                    }
+                }
+            ]
+        }
+    ]
+}

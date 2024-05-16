@@ -1,0 +1,37 @@
+com.favorite.favouritebutton.app-constraintlayout-2.0.1-0 C:\Users\Hanif Sangkate Rohan\.gradle\caches\transforms-3\198f93d2363160911eeff4aca22756d2\transformed\constraintlayout-2.0.1\res
+com.favorite.favouritebutton.app-recyclerview-1.1.0-1 C:\Users\Hanif Sangkate Rohan\.gradle\caches\transforms-3\35b2aa2a3b44d63ee238735d533166ba\transformed\recyclerview-1.1.0\res
+com.favorite.favouritebutton.app-room-runtime-2.5.1-2 C:\Users\Hanif Sangkate Rohan\.gradle\caches\transforms-3\3fe3c990a05640ea6a4e6d4c041f532c\transformed\room-runtime-2.5.1\res
+com.favorite.favouritebutton.app-material-1.8.0-3 C:\Users\Hanif Sangkate Rohan\.gradle\caches\transforms-3\48906f070b35f14bfd34b1c4fe611700\transformed\material-1.8.0\res
+com.favorite.favouritebutton.app-emoji2-1.2.0-4 C:\Users\Hanif Sangkate Rohan\.gradle\caches\transforms-3\4a3f344d4d52e0551a737e0241b410a1\transformed\emoji2-1.2.0\res
+com.favorite.favouritebutton.app-annotation-experimental-1.3.0-5 C:\Users\Hanif Sangkate Rohan\.gradle\caches\transforms-3\51bff4f82dd308ae4a18f6f2a647ca0e\transformed\annotation-experimental-1.3.0\res
+com.favorite.favouritebutton.app-coordinatorlayout-1.1.0-6 C:\Users\Hanif Sangkate Rohan\.gradle\caches\transforms-3\68adf8b3890a1258d958615f940fd223\transformed\coordinatorlayout-1.1.0\res
+com.favorite.favouritebutton.app-activity-1.6.0-7 C:\Users\Hanif Sangkate Rohan\.gradle\caches\transforms-3\6cb12e9d6ae9e9652a462d1c798f8800\transformed\activity-1.6.0\res
+com.favorite.favouritebutton.app-core-1.9.0-8 C:\Users\Hanif Sangkate Rohan\.gradle\caches\transforms-3\76f67a50d0e2c72e304a274110033e43\transformed\core-1.9.0\res
+com.favorite.favouritebutton.app-sqlite-2.3.1-9 C:\Users\Hanif Sangkate Rohan\.gradle\caches\transforms-3\787811371e54c5509e7183175b279694\transformed\sqlite-2.3.1\res
+com.favorite.favouritebutton.app-drawerlayout-1.1.1-10 C:\Users\Hanif Sangkate Rohan\.gradle\caches\transforms-3\8e9b741a1b402c5090a550b90fcd793c\transformed\drawerlayout-1.1.1\res
+com.favorite.favouritebutton.app-startup-runtime-1.1.1-11 C:\Users\Hanif Sangkate Rohan\.gradle\caches\transforms-3\929bb758608d03c65c06a3d2058d3e88\transformed\startup-runtime-1.1.1\res
+com.favorite.favouritebutton.app-emoji2-views-helper-1.2.0-12 C:\Users\Hanif Sangkate Rohan\.gradle\caches\transforms-3\a0f7f7b96c3628d923249fff3421e63f\transformed\emoji2-views-helper-1.2.0\res
+com.favorite.favouritebutton.app-databinding-adapters-7.4.2-13 C:\Users\Hanif Sangkate Rohan\.gradle\caches\transforms-3\a5c9f6d56d56900dcac7c4e2173e31e2\transformed\databinding-adapters-7.4.2\res
+com.favorite.favouritebutton.app-fragment-1.3.6-14 C:\Users\Hanif Sangkate Rohan\.gradle\caches\transforms-3\a6570d8f37b8f86553eecdd5cb48d5ae\transformed\fragment-1.3.6\res
+com.favorite.favouritebutton.app-appcompat-resources-1.6.1-15 C:\Users\Hanif Sangkate Rohan\.gradle\caches\transforms-3\abcf17c931d89ab5ad8bec6d7666ce9b\transformed\appcompat-resources-1.6.1\res
+com.favorite.favouritebutton.app-lifecycle-viewmodel-savedstate-2.5.1-16 C:\Users\Hanif Sangkate Rohan\.gradle\caches\transforms-3\ad4c3c0c0517e47bf31cace2d40dfdd4\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+com.favorite.favouritebutton.app-transition-1.2.0-17 C:\Users\Hanif Sangkate Rohan\.gradle\caches\transforms-3\b6ee2830a3cd5a98d945ad17f377f3ae\transformed\transition-1.2.0\res
+com.favorite.favouritebutton.app-core-ktx-1.9.0-18 C:\Users\Hanif Sangkate Rohan\.gradle\caches\transforms-3\bfbf2a96049cc4be441d9ec204940fe5\transformed\core-ktx-1.9.0\res
+com.favorite.favouritebutton.app-lifecycle-viewmodel-2.5.1-19 C:\Users\Hanif Sangkate Rohan\.gradle\caches\transforms-3\c1df2c5f5398d5815671a03ef9e30b64\transformed\lifecycle-viewmodel-2.5.1\res
+com.favorite.favouritebutton.app-databinding-runtime-7.4.2-20 C:\Users\Hanif Sangkate Rohan\.gradle\caches\transforms-3\c783ffcb9293a1b17af569d8176838fb\transformed\databinding-runtime-7.4.2\res
+com.favorite.favouritebutton.app-lifecycle-livedata-core-2.5.1-21 C:\Users\Hanif Sangkate Rohan\.gradle\caches\transforms-3\d050b7c31b98948cc2382d88935a2ddd\transformed\lifecycle-livedata-core-2.5.1\res
+com.favorite.favouritebutton.app-sqlite-framework-2.3.1-22 C:\Users\Hanif Sangkate Rohan\.gradle\caches\transforms-3\d0ffbecf07afc7948b9c9edffcf99b8f\transformed\sqlite-framework-2.3.1\res
+com.favorite.favouritebutton.app-cardview-1.0.0-23 C:\Users\Hanif Sangkate Rohan\.gradle\caches\transforms-3\d65a7e73cc72adef5e4439b9267c790e\transformed\cardview-1.0.0\res
+com.favorite.favouritebutton.app-lifecycle-runtime-2.5.1-24 C:\Users\Hanif Sangkate Rohan\.gradle\caches\transforms-3\d95def67c4264f7492aac278d22650a1\transformed\lifecycle-runtime-2.5.1\res
+com.favorite.favouritebutton.app-lifecycle-process-2.4.1-25 C:\Users\Hanif Sangkate Rohan\.gradle\caches\transforms-3\e6c100d419d5770d24c355e4172accc0\transformed\lifecycle-process-2.4.1\res
+com.favorite.favouritebutton.app-savedstate-1.2.0-26 C:\Users\Hanif Sangkate Rohan\.gradle\caches\transforms-3\ee1cd340739db767bc910aa0dfc99f7b\transformed\savedstate-1.2.0\res
+com.favorite.favouritebutton.app-appcompat-1.6.1-27 C:\Users\Hanif Sangkate Rohan\.gradle\caches\transforms-3\f29a3f2f6e035300b72f04b6baf1dd14\transformed\appcompat-1.6.1\res
+com.favorite.favouritebutton.app-viewpager2-1.0.0-28 C:\Users\Hanif Sangkate Rohan\.gradle\caches\transforms-3\fbf829a94c15ecfc79d17db16c3b0a82\transformed\viewpager2-1.0.0\res
+com.favorite.favouritebutton.app-pngs-29 D:\Add-to-Favorite-Room-main\app\build\generated\res\pngs\debug
+com.favorite.favouritebutton.app-resValues-30 D:\Add-to-Favorite-Room-main\app\build\generated\res\resValues\debug
+com.favorite.favouritebutton.app-rs-31 D:\Add-to-Favorite-Room-main\app\build\generated\res\rs\debug
+com.favorite.favouritebutton.app-packageDebugResources-32 D:\Add-to-Favorite-Room-main\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.favorite.favouritebutton.app-packageDebugResources-33 D:\Add-to-Favorite-Room-main\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.favorite.favouritebutton.app-merged_res-34 D:\Add-to-Favorite-Room-main\app\build\intermediates\merged_res\debug
+com.favorite.favouritebutton.app-debug-35 D:\Add-to-Favorite-Room-main\app\src\debug\res
+com.favorite.favouritebutton.app-main-36 D:\Add-to-Favorite-Room-main\app\src\main\res
